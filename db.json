@@ -1,0 +1,192 @@
+{
+  "products": [
+    {
+      "name": "Black Forest Cake",
+      "price": 1950,
+      "quantity": 1,
+      "description": "Bánh Black Forest với lớp kem tươi mềm mịn, phủ socola và anh đào tươi.",
+      "image": "https://thescranline.com/wp-content/uploads/2023/06/BLACK-FOREST-CAKE-S-01.jpg",
+      "category": "Cake",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Red Velvet Cake",
+      "price": 1850,
+      "description": "Bánh Red Velvet với lớp kem phô mai mềm mịn, màu đỏ đặc trưng.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMaVmjryRwiajtbNKde2PalWCBndqJU3joSQ&s",
+      "category": "Cake",
+      "quantity": 1
+    },
+    {
+      "id": "83fe",
+      "name": "Penguin Cake",
+      "price": 10000,
+      "quantity": 10,
+      "description": "Bánh Penguin đáng yêu với lớp trang trí hình chim cánh cụt độc đáo.",
+      "image": "https://chelsweets.com/wp-content/uploads/2022/11/recipe-card-penguin-cake-closer-768x1024.jpg.webp",
+      "category": "Cake"
+    },
+    {
+      "name": "Mini Chocolate Cake",
+      "price": 2,
+      "quantity": 1,
+      "description": "Bánh mini phủ socola thích hợp cho những bữa tiệc nhẹ.",
+      "image": "https://kenh14cdn.com/3Azzzhiqg6rwgkBhYaPkG6Rkg2Pi/Image/2012/11/121102cake4-681dc.jpg",
+      "category": "Cake",
+      "id": "b56d"
+    },
+    {
+      "id": "a70d",
+      "name": "Donut Delight",
+      "price": 100,
+      "quantity": 1,
+      "description": "Bánh donut ngọt ngào với lớp đường phủ mịn và nhân kem bên trong.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlGgzbH1hq9CrspZOghoK3d6FPovaJAZIsOA&s",
+      "category": "Donuts"
+    },
+    {
+      "id": "b0d2",
+      "name": "Crunchy Cookies",
+      "price": 2,
+      "quantity": 2,
+      "description": "Bánh quy giòn tan với hương vị vani và socola.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStTk8nK2RoGn3VFwu-odxnBndYBlI945Fo6A&s",
+      "category": "Cookies"
+    },
+    {
+      "name": "Caketttttt",
+      "price": 200000,
+      "quantity": 12,
+      "description": "Rrrdssssssss",
+      "image": "https://kenh14cdn.com/3Azzzhiqg6rwgkBhYaPkG6Rkg2Pi/Image/2012/11/121102cake4-681dc.jpg",
+      "category": "Cookies",
+      "id": "8267"
+    },
+    {
+      "id": "30cc",
+      "name": "Birthday cake with white stuff",
+      "price": 120000,
+      "quantity": 1,
+      "description": "An nhieu se beo giong dat ",
+      "image": "https://naidecor.vn/wp-content/uploads/2020/08/BST-BN-06-scaled.jpg",
+      "category": "Cake"
+    },
+    {
+      "id": "cdcb",
+      "name": "Cake 123",
+      "price": 200,
+      "quantity": 10,
+      "description": "An nhieu se beo nhu dat ",
+      "image": "https://naidecor.vn/wp-content/uploads/2020/08/BST-BN-06-scaled.jpg",
+      "category": "Cake"
+    }
+  ],
+  "orders": [
+    {
+      "id": "f9930fca-ecd7-4043-b404-47a9e452ea16",
+      "description": "Bánh Black Forest với lớp kem tươi mềm mịn, phủ socola và anh đào tươi.",
+      "image": "https://thescranline.com/wp-content/uploads/2023/06/BLACK-FOREST-CAKE-S-01.jpg",
+      "price": 1950,
+      "productId": "1",
+      "productName": "Black Forest Cake",
+      "quantity": 1,
+      "userId": "69fe2851-bb28-49e9-a653-ccd883721c8e"
+    }
+  ],
+  "favorite": [],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin",
+      "email": "thangtn52751@gmail.com.vn",
+      "phoneNumber": "0961243241",
+      "fullName": "Trần Nam Thắng",
+      "address": "Hà Nội",
+      "avatar": "https://images.alphacoders.com/605/thumbbig-605592.webp",
+      "role": "admin"
+    },
+    {
+      "id": "6f64",
+      "username": "12313123",
+      "password": "1",
+      "email": "da@gmail.com",
+      "phoneNumber": "12131321",
+      "fullName": "TH",
+      "address": "112312321",
+      "avatar": "https://images.alphacoders.com/605/thumbbig-605592.webp"
+    },
+    {
+      "id": "549b",
+      "username": "dat",
+      "password": "1",
+      "email": "datxautrai@gmail.com",
+      "phoneNumber": "0961243241",
+      "fullName": "Dat1",
+      "address": "HN",
+      "avatar": "https://chelsweets.com/wp-content/uploads/2022/11/recipe-card-penguin-cake-closer-768x1024.jpg.webp"
+    },
+    {
+      "address": "HN",
+      "avatar": "content://com.android.providers.media.documents/document/image%3A1000000036",
+      "email": "thang@gmail.com",
+      "fullName": "thang",
+      "id": "2562",
+      "password": "thang",
+      "phoneNumber": "1234567",
+      "username": "thang"
+    },
+    {
+      "id": "0726",
+      "username": "dat",
+      "password": "22",
+      "email": "dat@gmail.com",
+      "phoneNumber": "0961243241",
+      "fullName": "Nguyen Tien Dat",
+      "address": "Ha Noi",
+      "avatar": "https://png.pngtree.com/png-clipart/20230427/original/pngtree-cake-fruit-cream-transparent-png-image_9116320.png"
+    },
+    {
+      "id": "9d9afde0-f8d9-4fca-bbac-a330fd1c078c",
+      "address": "Default Address",
+      "email": "p@gmail.com",
+      "fullName": "PDP",
+      "password": "123456",
+      "phoneNumber": "0000000000",
+      "username": "PDP"
+    },
+    {
+      "id": "2b269972-8c69-45f5-a4a1-e1b0465df4d4",
+      "address": "Default Address",
+      "avatar": "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+      "email": "u@gmail.com",
+      "fullName": "user1",
+      "password": "123456",
+      "phoneNumber": "0000000000",
+      "username": "user1"
+    },
+    {
+      "id": "69fe2851-bb28-49e9-a653-ccd883721c8e",
+      "address": "Default Address",
+      "avatar": "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+      "email": "u@gmail.com",
+      "fullName": "e",
+      "password": "123456789",
+      "phoneNumber": "0000000000",
+      "username": "e"
+    }
+  ],
+  "cart": [
+    {
+      "id": "d6499bfb-769e-495e-ab41-423f5d28ab0f",
+      "description": "Bánh Black Forest với lớp kem tươi mềm mịn, phủ socola và anh đào tươi.",
+      "image": "https://thescranline.com/wp-content/uploads/2023/06/BLACK-FOREST-CAKE-S-01.jpg",
+      "price": 1950,
+      "productId": "1",
+      "productName": "Black Forest Cake",
+      "quantity": 1,
+      "userId": "69fe2851-bb28-49e9-a653-ccd883721c8e"
+    }
+  ]
+}
